@@ -76,4 +76,5 @@ l2.add_node(4)
 l2.print_list()
 
 solution = Solution()
-print(solution.addTwoNumbers(l1, l2))
+l3 = solution.addTwoNumbers(l1, l2)
+l3.print_list()
